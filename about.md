@@ -41,8 +41,6 @@ AI가 생성한 코드의 작동 원리를 명확히 이해하고 제어하며 *
 
 ![GitHub Contributions](https://img.shields.io/badge/2025_Contributions-2,662-success)
 
-**2025년 GitHub 컨트리뷰션: 2,662건**
-
 Git을 적극적으로 활용하여 꾸준히 코드를 작성하고 프로젝트를 관리하고 있습니다.
 
 ---
@@ -51,7 +49,7 @@ Git을 적극적으로 활용하여 꾸준히 코드를 작성하고 프로젝�
 
 <!-- TODO: 이메일 주소 추가 -->
 
-- **Email:** `your_email@example.com`
+- **Email:** `20211072@edu.hanbat.ac.kr`
 - **GitHub:** [https://github.com/YUJAEYUN](https://github.com/YUJAEYUN)
 - **LinkedIn:** [https://www.linkedin.com/in/jaeyunyu](https://www.linkedin.com/in/jaeyunyu)
 <!-- TODO: 이력서 PDF 파일 링크 추가 -->
@@ -81,13 +79,15 @@ Git을 적극적으로 활용하여 꾸준히 코드를 작성하고 프로젝�
 - Fast API
 - Flask
 - Node.js
-- Supabase
+- spring boot
 
 ### Database
 
 - PostgreSQL
 - MongoDB
 - Redis
+- MySQL
+- qdrant
 
 ### Infra & DevOps
 
@@ -111,63 +111,27 @@ Git을 적극적으로 활용하여 꾸준히 코드를 작성하고 프로젝�
 
 ## 🏃 Experience & Activities
 
-### 한밭모 (Hanbatmo) / (주)썸타임
+### 한밭모 (Hanbatmo)
 
-**Junior Developer / Product Engineer** | _2024.MM ~ 현재_
+**Backend Developer / Product Engineer** | _2025.03 ~ 현재_
 
 <!-- TODO: 정확한 시작 날짜 추가 -->
 
 - 교내 IT 창업 동아리로 시작, 딥테크 초기창업패키지 선정 스타트업으로 성장
-- '썸타임' 앱 개발 및 '신사타' 등 외주 프로젝트 수행
-
-### KOICA 공공데이터 공모전
-
-_2025.MM ~ 현재_
-
-<!-- TODO: 정확한 시작 날짜 추가 -->
-
-- 성신여대 학생들과 팀을 이루어 공모전 준비 중
-
-### 한밭대학교 SW중심대학 창업교육 프로그램
-
-_2025.MM_
-
-<!-- TODO: 정확한 날짜 추가 -->
-
-- 비즈니스적 사고와 문제 해결력을 넓히기 위해 수강
-
-### Naver Boostcamp 10기 (Web Fullstack)
-
-_2025.MM_
-
-<!-- TODO: 결과에 따라 수정 -->
-
-- 지원 및 참여
-
----
+- '썸타임' 앱 개발, 썸타임라운지 로테이션 소개팅 및 '신사타' 등 외주 프로젝트 수행
+- AI를 활용한 개발 생산성 향상에 주력
+- 단순 소개팅앱을 넘어 청년들이 스스로를 되돌아보고 자아 확립을 돕는 서비스로 만들어가고 있습니다.
 
 ## 🎓 Education & Certifications
 
 ### Naver Cloud Certified
 
-_2025.MM_
+_2025.08_
 
 <!-- TODO: 정확한 취득 날짜 추가 -->
 
-- 자격증 취득
+- naver cloud associate 자격증 취득
 
 ### 한밭대학교 (Hanbat National University)
 
-**컴퓨터공학과 (전과)** | _202X.MM ~ 현재_
-
-<!-- TODO: 정확한 입학/전과 날짜 추가 -->
-
-**전자공학과** | _202X.MM ~ 202X.MM_
-
-### ABC 부트캠프
-
-_2023.MM_
-
-<!-- TODO: 정확한 수료 날짜 및 부트캠프 이름 추가 -->
-
-- 수료
+**컴퓨터공학과** | _2021.03 ~ 현재_
