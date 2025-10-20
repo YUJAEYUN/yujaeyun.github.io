@@ -1,16 +1,18 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: 유재윤 | Product Engineer
+author: 유재윤 (Jaeyun Yu)
+url: https://yujaeyun.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  문제를 정의하고 해결하는 개발자. OS, 네트워크, DB와 같은 기본 원리를 깊이 있게 이해하며,
+  AI 에이전트를 활용하여 생산성을 극대화하고 비즈니스 로직 설계와 문제 해결에 집중합니다.
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
+# TODO: Twitter 계정이 있다면 username 추가
+# twitter:
+#     username: your_twitter_username
+#     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -33,10 +35,10 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Main Projects
     title_misc_list: Details
     title_blog: Blog
-    title_old_projects: Old Projects
+    title_old_projects: Side Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
@@ -44,7 +46,7 @@ soopr:
 highlighter: rouge
 
 sass:
-  style: :compressed
+  style: compressed
 
 plugins:
   - jekyll-feed

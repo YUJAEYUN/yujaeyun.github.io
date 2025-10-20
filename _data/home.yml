@@ -2,66 +2,73 @@ navbar_entries:
   - title: about
     url: about
 
+  - title: projects
+    url: "#projects"
+
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: github
+    url: https://github.com/YUJAEYUN
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: 썸타임 (Sometime)
+    url: projects/sometime
+    desc: 지역 대학생 소개팅 앱 - React Native, Nest.js 기반 실제 서비스 운영 중
+    highlight: LIVE
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: 신사타 (Shinsata)
+    url: projects/shinsata
+    desc: 레거시 코드 개선 및 배포 - Docker, PostgreSQL, AWS
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: FLTG 논문 구현
+    url: https://github.com/YUJAEYUN/FLTG-implementation
+    desc: Byzantine-Robust Federated Learning 논문 구현 - PyTorch, MNIST
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: 썸타임 라운지
+    url: https://github.com/YUJAEYUN/sometimeLounge
+    desc: 한밭대학교 축제 실시간 매칭 앱 - Next.js, Supabase
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: 타밭슈
+    url: projects/tabatsu
+    desc: 큐싱 방지 자전거 대여 앱 - Kotlin, Flask, MongoDB (교내 대회 수상)
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Swivel
+    url: projects/swivel
+    desc: AI 기반 디지털 명함 관리 서비스 - OCR, 카드 플립 애니메이션, 실시간 동기화
+    highlight: LIVE
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: 여권 사진 변환기
+    url: https://lnkd.in/gQAscaY3
+    desc: 5달러 유료 앱 대신 무료로 여권 규격 사진 변환 - 3장 심사 전부 승인
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: 강의 음성 추출기
+    url: https://github.com/YUJAEYUN/lecture-transcriber
+    desc: 한밭대학교 LMS 녹화 강의에서 음성(m4a) 파일 추출 도구
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: 로또 번호 추천기
+    url: https://github.com/YUJAEYUN/lotto
+    desc: 통계 기반 로또 번호 추천 서비스
+
+  - title: 운동 메이트
+    url: https://github.com/YUJAEYUN/exercisemate
+    desc: 친구와 함께 운동 기록을 공유하고 관리하는 앱
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/YUJAEYUN
+
+  - title: linkedin
+    url: https://www.linkedin.com/in/jaeyunyu
+
+  # TODO: 이메일 주소 추가
+  # - title: email
+  #   url: mailto:your_email@example.com
+
+  # TODO: 이력서 PDF 링크 추가
+  # - title: resume
+  #   url: /path/to/resume.pdf
 
   - title: feed
     url: feed.xml
