@@ -25,7 +25,8 @@ project_entries:
   - title: 썸타임 라운지
     url: https://github.com/YUJAEYUN/sometimeLounge
     desc: 한밭대학교 축제 실시간 매칭 앱 - Next.js, Supabase
-
+    highlight: LIVE
+    
   - title: 타밭슈
     url: projects/tabatsu
     desc: 큐싱 방지 자전거 대여 앱 - Kotlin, Flask, MongoDB (교내 대회 수상)
@@ -37,20 +38,23 @@ old_project_entries:
     highlight: LIVE
 
   - title: 여권 사진 변환기
-    url: https://lnkd.in/gQAscaY3
-    desc: 5달러 유료 앱 대신 무료로 여권 규격 사진 변환 - 3장 심사 전부 승인
+    url: https://velog.io/@zzae_zze/5%EB%8B%AC%EB%9F%AC-%EB%82%B4%EA%B8%B0-%EC%8B%AB%EC%96%B4%EC%84%9C-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4
+    desc: 5달러 유료 앱 대신 무료로 여권 규격 사진 변환 - 3장 심사 전부 승인(서버비 문제로 운영 중단)
 
   - title: 강의 음성 추출기
     url: https://github.com/YUJAEYUN/lecture-transcriber
     desc: 한밭대학교 LMS 녹화 강의에서 음성(m4a) 파일 추출 도구
+    highlight: LIVE
 
   - title: 로또 번호 추천기
     url: https://github.com/YUJAEYUN/lotto
-    desc: 통계 기반 로또 번호 추천 서비스
+    desc: 통계 기반 로또 번호 추천 서비스(서버비 문제로 중단)
+    highlight: LIVE
 
   - title: 운동 메이트
-    url: https://github.com/YUJAEYUN/exercisemate
+    url: https://exercisemate.vercel.app/
     desc: 친구와 함께 운동 기록을 공유하고 관리하는 앱
+    highlight: LIVE
 
 footer_entries:
   - title: github
