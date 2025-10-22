@@ -9,6 +9,8 @@ title: 타밭슈 - 큐싱 방지 자전거 대여 앱
 
 **Tech Stack:** Kotlin (Android), Flask (Python), MongoDB
 
+**깃허브 링크:** [tabatshu](https://github.com/YUJAEYUN/Tabatshu)
+
 ## Overview
 
 컴퓨터공학과 전과 후, **개발 경험이 전무한 팀원들**과 함께 '큐싱 방지' 기능을 갖춘 자전거 대여 앱을 완성한 팀 프로젝트입니다. 이 프로젝트는 제게 **"나도 만들 수 있다"는 자신감**을 준 첫 번째 완성 프로젝트이며, 이후 '한밭모' 동아리에 합류하는 계기가 되었습니다.
