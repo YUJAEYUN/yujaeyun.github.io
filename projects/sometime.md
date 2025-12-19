@@ -5,7 +5,7 @@ title: 썸타임 (Sometime) - 지역 대학생 소개팅 앱
 
 # 썸타임 (Sometime)
 
-![Status](https://img.shields.io/badge/Status-LIVE-success) ![Period](https://img.shields.io/badge/Period-2024~현재-blue) ![Revenue](https://img.shields.io/badge/Revenue-1억+-green) ![Users](https://img.shields.io/badge/Users-7,000+-blue)
+![Period](https://img.shields.io/badge/Period-2024~현재-blue) ![Revenue](https://img.shields.io/badge/Revenue-1억+-green) ![Users](https://img.shields.io/badge/Users-7,000+-blue)
 
 **Tech Stack:** React Native, Nest.js, PostgreSQL, Redis, AWS, Naver Cloud
 
@@ -15,9 +15,9 @@ title: 썸타임 (Sometime) - 지역 대학생 소개팅 앱
 
 ## Overview
 
-교내 창업 동아리 '한밭모'에서 시작하여 **초기창업패키지 딥테크**에 선정된 지역 기반 대학생 소개팅 앱입니다.
+교내 창업 동아리 '한밭모'에서 시작하여 **런칭 3개월 만에 초기창업패키지 딥테크**에 선정된 지역 기반 대학생 소개팅 앱입니다.
 
-학교 축제에서 640명의 유저를 모으며 시장성을 검증한 후, Next.js 기반 초기 버전을 React Native와 Nest.js로 전면 리팩토링하여 현재 운영 중입니다.
+대학생이라는 시기는 학벌이나 연봉 같은 조건을 따지지 않고 순수하게 '나'를 보여주며 교류할 수 있는 거의 마지막 기회입니다. 하지만 기존 소개팅 앱들은 30대 직장인 중심, 수도권 중심이었고, 지역 대학생을 위한 서비스는 없었습니다. 이 간절함에서 썸타임은 시작되었습니다.
 
 ---
 
@@ -49,10 +49,26 @@ title: 썸타임 (Sometime) - 지역 대학생 소개팅 앱
 
 ## Key Achievements
 
+- **런칭 3개월 만에 초기창업패키지 딥테크 선정**
 - **서비스 출시 0년 차 매출 1억 달성**
 - **누적 사용자 7,000명 확보**
-- **초기창업패키지 딥테크 선정** - 정부 지원 사업 선정
 - **App Store & Play Store 정식 출시**
+
+---
+
+## Problem Solving: 진정성을 기술로
+
+### 문제 상황
+
+'가벼운 만남' 대신 '진정성'에 모든 것을 걸었습니다. 진심으로 연애하고 싶은 사람들을 위해 서비스 초기에는 모든 프로필을 **밤새 한 명 한 명 수작업으로 검증**했습니다. 허위 계정을 걸러내는 데 엄청난 시간과 노력을 쏟았고, 이 과정에서 **몇천만 원의 손실을 감수**하기도 했습니다.
+
+### 한계 인식
+
+하지만 지속되는 마이너스 운영 속에서 '이 진심이 과연 통할까?'라는 회의감마저 들었습니다. '이 진정성을 어떻게 지속 가능한 기술로 구현할 수 있을까?'라는 절박한 고민을 시작했습니다.
+
+### 기술적 도약
+
+**'수작업의 진심'을 '기술의 효율성'**으로 완성하기로 했습니다. '주변 지인을 통해 소개받는' 것과 같은 신뢰의 흐름을 온라인에 접목시키려 노력했고, 이 모든 노력이 런칭 3개월 만에 딥테크 선정이라는 결실을 맺었습니다.
 
 ---
 
