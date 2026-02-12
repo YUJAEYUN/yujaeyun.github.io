@@ -5,3 +5,10 @@
 _site
 vendor/bundle
 .config
+
+# PDF generation
+node_modules/
+package.json
+package-lock.json
+generate-pdf.js
+portfolio.pdf
