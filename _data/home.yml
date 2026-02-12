@@ -11,27 +11,27 @@ navbar_entries:
 project_entries:
   - title: 썸타임 (Sometime)
     url: projects/sometime
-    desc: 지역 대학생 소개팅 앱 - React Native, Nest.js (매출 1억, 사용자 7,000명)
+    desc: 지역 대학생 소개팅 앱 — 기획~운영 전 사이클 경험 (매출 1억, 사용자 7,000명, 딥테크 선정)
+
+  - title: AI 자동화 시스템
+    url: projects/ai-automation
+    desc: 팀 소통 병목 해결 — RAG 기반 지식검색 봇, Jira 자동화, 비동기 스크럼
 
   - title: GoalForge
     url: projects/goalforge
-    desc: Unity 2D 축구 게임 - CI/CD 자동 배포, 베타테스터 피드백 기반 개발
+    desc: Unity 2D 축구 게임 — 게임성 우선 기획, CI/CD 자동배포, 베타테스터 피드백 루프
 
   - title: 신사타 (Shinsata)
     url: projects/shinsata
-    desc: 레거시 코드 개선 및 배포 - Docker, PostgreSQL, AWS
-
-  - title: FLTG 논문 구현
-    url: https://github.com/YUJAEYUN/FLTG-implementation
-    desc: Byzantine-Robust Federated Learning 논문 구현 - PyTorch, MNIST
+    desc: 레거시 코드 복구 외주 — 문서 없는 코드베이스 역추적, Docker 환경 구축, AWS 배포
 
   - title: 썸타임 라운지
     url: https://github.com/YUJAEYUN/sometimeLounge
-    desc: 한밭대학교 축제 실시간 매칭 앱 - Next.js, Supabase
+    desc: 축제 실시간 매칭 앱 — 2일간 640명 유저, 30% 결제 전환율 검증
 
   - title: 타밭슈
     url: projects/tabatsu
-    desc: 큐싱 방지 자전거 대여 앱 - Kotlin, Flask, MongoDB (교내 대회 수상)
+    desc: 큐싱 방지 자전거 대여 앱 — 개발 경험 0에서 완성까지, 교내 대회 수상
 
 old_project_entries:
   - title: Swivel

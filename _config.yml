@@ -2,8 +2,9 @@ title: 유재윤 | Product Engineer
 author: 유재윤 (Jaeyun Yu)
 url: https://yujaeyun.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  문제를 정의하고 해결하는 개발자. OS, 네트워크, DB와 같은 기본 원리를 깊이 있게 이해하며,
-  AI 에이전트를 활용하여 생산성을 극대화하고 비즈니스 로직 설계와 문제 해결에 집중합니다.
+  스타트업에서 기획부터 개발, 운영까지 서비스의 전 과정을 경험하며
+  "기술은 수단, 문제 해결이 목적"이라는 철학을 세웠습니다.
+  개발을 할 수 있다는 것을 강점으로 삼되, 사용자의 진짜 문제를 찾고 해결하는 데 집중합니다.
 
 permalink: /:slug
 
@@ -28,7 +29,7 @@ theme_config:
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: true # show blog posts added in _posts
+  show_blog: false # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
