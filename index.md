@@ -5,15 +5,15 @@ layout: home
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
   <div style="flex: 1;">
     <h2>안녕하세요, 유재윤입니다</h2>
-    <p><strong>코드보다 문제를 먼저 보는 Product Engineer</strong></p>
+    <p><strong>금융 현장을 아는 개발자</strong></p>
   </div>
   <div style="flex-shrink: 0;">
     <img src="/my.jpeg" alt="Profile" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
   </div>
 </div>
 
-스타트업에서 기획, 개발, 운영을 함께 해오면서 한 가지를 배웠습니다.
-기술을 잘 쓰는 것보다, **무엇을 만들어야 하는지 먼저 아는 것**이 더 중요하다는 걸요.
+스타트업에서 서비스 전 사이클을 경험하고, 증권사 현장에서 금융 도메인을 익히며 개발 역량을 실무에 적용하고 있습니다.
+기술을 모르는 사람들 옆에서 **병목을 찾고 코드로 해결하는 것**을 자연스럽게 해왔습니다.
 
 ---
 
