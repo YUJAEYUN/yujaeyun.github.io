@@ -2,14 +2,10 @@
 layout: home
 ---
 
-<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
-  <div style="flex: 1;">
-    <h2>유재윤</h2>
-    <p>스타트업 공동창업자 → 하나증권 법인금융상품실</p>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="/my.jpeg" alt="Profile" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
-  </div>
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/my.jpeg" alt="Profile" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+  <h2 style="margin: 0.5rem 0 0.25rem;">유재윤</h2>
+  <p style="margin: 0; opacity: 0.7;">금융 현장을 아는 개발자</p>
 </div>
 
 ---
