@@ -5,7 +5,7 @@ layout: home
 <div style="text-align: center; margin-bottom: 2rem;">
   <img src="/my.jpeg" alt="Profile" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
   <h2 style="margin: 0.5rem 0 0.25rem;">유재윤</h2>
-  <p style="margin: 0 0 0.75rem; opacity: 0.7;">의문이 생기면 끝까지 팝니다</p>
+  <p style="margin: 0 0 0.75rem; opacity: 0.7;">조직의 병목을 해소하려고 합니다</p>
   <p style="margin: 0; font-size: 0.85rem; opacity: 0.6;">
     <a href="mailto:20211072@edu.hanbat.ac.kr">이메일</a> &nbsp;·&nbsp;
     <a href="https://github.com/YUJAEYUN">GitHub</a> &nbsp;·&nbsp;
@@ -18,15 +18,6 @@ layout: home
 
 ---
 
-## 강점
-
-**문제부터 봅니다** — 환불 시스템 요청이 왔을 때 데이터를 먼저 봤습니다. 진짜 문제는 채팅이었습니다. 기능 대신 UX를 고쳤습니다.
-
-**서비스 전 과정을 경험했습니다** — 기획, 개발, CS, 마케팅, 유저 리서치까지 직접 수행했습니다.
-
-**틀리면 바꿉니다** — 지역 확장이 답이라 생각했는데 매출의 80%가 대전이었습니다. 인정하고 전략을 바꿨습니다.
-
----
 
 ## 경력
 
@@ -34,7 +25,7 @@ layout: home
 
 - 법인 영업 지원 업무
 - 기업 재무 데이터 스크리닝 및 데이터 시각화
-- 사내 자동화 툴 개발 및 관린
+- 사내 자동화 툴 개발 및 관리
 
 **스마트뉴비 (SmartNewbie)** · _2025.03 ~ 2026.01_ · 공동창업자
 
