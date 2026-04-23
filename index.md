@@ -3,44 +3,56 @@ layout: home
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/my.jpeg" alt="Profile" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+  <img src="/my.jpeg" alt="Profile" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
   <h2 style="margin: 0.5rem 0 0.25rem;">유재윤</h2>
-  <p style="margin: 0; opacity: 0.7;">금융 현장을 아는 개발자</p>
+  <p style="margin: 0 0 0.75rem; opacity: 0.7;">금융 현장을 아는 개발자</p>
+  <p style="margin: 0; font-size: 0.85rem; opacity: 0.6;">
+    <a href="mailto:20211072@edu.hanbat.ac.kr">이메일</a> &nbsp;·&nbsp;
+    <a href="https://github.com/YUJAEYUN">GitHub</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/jaeyunyu">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="about">About</a>
+  </p>
 </div>
 
----
-
-### What I Do
-
-**의문이 생기면 끝까지 팝니다**
-환불 요청이 많다는 보고가 왔을 때, 데이터를 먼저 봤습니다. 진짜 문제는 채팅이었습니다. 환불 기능 대신 채팅 UX를 고쳤습니다.
-
-**기술을 모르는 사람 옆에 있습니다**
-매일 1~2시간 걸리던 수작업, 자동화했습니다. 3,950개 기업 스크리닝, 10분으로 줄였습니다.
-
-**왜 만드는지를 먼저 봅니다**
-금융 영업 자료가 어떻게 사람을 설득하는지 이해합니다. 그 다음 코드를 씁니다.
+의문이 생기면 끝까지 팝니다. 스타트업에서 기술을 쌓고, 지금은 금융 현장에서 기술을 활용할 지점을 찾고 있습니다.
 
 ---
 
-### Now
+## 경력
 
-**일하는 중** — 하나증권 법인금융상품실. 반복 업무 자동화, 금융 도메인 학습.
+**하나증권 법인금융상품실** · _2026.03 ~ 현재_
 
-**만드는 중** — 면접운 서비스. 취준생을 위한 사주명리학 기반 사이드 프로젝트.
+- 승인 업무 자동화 (PowerShell) — 매번 프로그램 열고 클릭하던 과정을 단축키 하나로
+- MMF 운용보고서 수집 자동화 (VBA) — 매일 1~2시간 걸리던 수작업을 완전 자동화
+- 기업 재무 스크리닝 (DART OpenAPI) — 3,950개 기업에서 조건 충족 59개 추출, 이사님 수작업을 10분으로 단축
+- 등기우편 알림 자동화 (JavaScript)
 
-**지나온 것** — 썸타임 공동창업. 매출 1억, 사용자 7,000명, 딥테크 선정.
+**스마트뉴비 (SmartNewbie)** · _2025.03 ~ 2026.01_ · 공동창업자
 
-**학교** — 한밭대학교 컴퓨터공학과. 4학년 복학 예정.
+- 썸타임 서비스 기획, 개발, 운영, CS, 마케팅 전 사이클 수행
+- RAG 기반 사내 지식검색 봇, Jira 자동화 등 내부 도구 구축
+- 매출 1억, 사용자 7,000명, 딥테크 초기창업패키지 선정
+
+---
+
+## 기술
+
+**언어** — TypeScript, Python, Kotlin, C/C++
+
+**프론트엔드** — React Native, Next.js, React
+
+**백엔드** — NestJS, FastAPI, Flask, Node.js, Spring Boot
+
+**데이터베이스** — PostgreSQL, MongoDB, Redis, MySQL, Qdrant
+
+**인프라** — AWS, Docker, Naver Cloud
+
+**AI/ML** — OpenAI API, RAG, LangChain, Pinecone
 
 ---
 
-### Tech Stack
+## 학력
 
-**Frontend:** React Native, Next.js, TypeScript
-**Backend:** NestJS, FastAPI, Flask
-**Database:** PostgreSQL, MongoDB, Redis
-**AI/ML:** OpenAI API, RAG, LangChain, Pinecone
-**Infra:** AWS, Docker, Naver Cloud
+**한밭대학교 컴퓨터공학과** · _2021.03 ~ 현재_
 
----
+**Naver Cloud Associate** · _2025.08_
