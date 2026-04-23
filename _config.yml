@@ -1,4 +1,4 @@
-title: 유재윤 | 금융 현장을 아는 개발자
+title: 유재윤
 author: 유재윤 (Jaeyun Yu)
 url: https://yujaeyun.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
@@ -22,7 +22,7 @@ theme_config:
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description
+  show_description: false # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
