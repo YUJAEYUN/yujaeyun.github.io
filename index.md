@@ -4,7 +4,6 @@ layout: home
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <img src="/my.jpeg" alt="Profile" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
-  <h2 style="margin: 0.5rem 0 0.25rem;">유재윤</h2>
   <p style="margin: 0 0 0.75rem; opacity: 0.7;">조직의 병목을 해소하려고 합니다</p>
   <p style="margin: 0; font-size: 0.85rem; opacity: 0.6;">
     <a href="mailto:20211072@edu.hanbat.ac.kr">이메일</a> &nbsp;·&nbsp;
