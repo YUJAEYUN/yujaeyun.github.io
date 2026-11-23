@@ -40,42 +40,43 @@ layout: home
 <div style="margin-top: 0.75rem;">
   <p style="opacity: 0.6; font-size: 0.8rem; margin: 0 0 0.4rem;">언어</p>
   <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++" style="display:inline; height:20px;">
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #3178C6; border: 1px solid rgba(255,255,255,0.15);">TypeScript</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #3776AB; border: 1px solid rgba(255,255,255,0.15);">Python</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #7F52FF; border: 1px solid rgba(255,255,255,0.15);">Kotlin</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #00599C; border: 1px solid rgba(255,255,255,0.15);">C/C++</span>
   </div>
 
   <p style="opacity: 0.6; font-size: 0.8rem; margin: 0 0 0.4rem;">프론트엔드</p>
   <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem;">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="display:inline; height:20px;">
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #1a1a1a; background: #61DAFB; border: 1px solid rgba(255,255,255,0.15);">React Native</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #000000; border: 1px solid rgba(255,255,255,0.15);">Next.js</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #1a1a1a; background: #61DAFB; border: 1px solid rgba(255,255,255,0.15);">React</span>
   </div>
 
   <p style="opacity: 0.6; font-size: 0.8rem; margin: 0 0 0.4rem;">백엔드</p>
   <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem;">
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/Flask-444444?style=flat-square&logo=flask&logoColor=white" alt="Flask" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" style="display:inline; height:20px;">
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #E0234E; border: 1px solid rgba(255,255,255,0.15);">NestJS</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #009688; border: 1px solid rgba(255,255,255,0.15);">FastAPI</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #444444; border: 1px solid rgba(255,255,255,0.15);">Flask</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #339933; border: 1px solid rgba(255,255,255,0.15);">Node.js</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #6DB33F; border: 1px solid rgba(255,255,255,0.15);">Spring Boot</span>
   </div>
 
   <p style="opacity: 0.6; font-size: 0.8rem; margin: 0 0 0.4rem;">데이터베이스</p>
   <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem;">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="display:inline; height:20px;">
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #4169E1; border: 1px solid rgba(255,255,255,0.15);">PostgreSQL</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #47A248; border: 1px solid rgba(255,255,255,0.15);">MongoDB</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #DC382D; border: 1px solid rgba(255,255,255,0.15);">Redis</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #4479A1; border: 1px solid rgba(255,255,255,0.15);">MySQL</span>
   </div>
 
   <p style="opacity: 0.6; font-size: 0.8rem; margin: 0 0 0.4rem;">인프라 · AI</p>
   <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem;">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" style="display:inline; height:20px;">
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" style="display:inline; height:20px;">
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #2496ED; border: 1px solid rgba(255,255,255,0.15);">Docker</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #232F3E; border: 1px solid rgba(255,255,255,0.15);">AWS</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #412991; border: 1px solid rgba(255,255,255,0.15);">OpenAI</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #1C3C3C; border: 1px solid rgba(255,255,255,0.15);">LangChain</span>
+    <span style="display: inline-block; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; line-height: 1.4; color: #fff; background: #333333; border: 1px solid rgba(255,255,255,0.15);">Qdrant</span>
   </div>
 </div>
 
