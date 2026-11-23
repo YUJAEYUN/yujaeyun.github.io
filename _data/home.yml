@@ -9,6 +9,26 @@ navbar_entries:
     url: https://github.com/YUJAEYUN
 
 project_entries:
+  - title: 법인 뉴스 이슈 트래커
+    url: projects/issue-tracker
+    desc: 매일 운영하는 에이전트 판정 파이프라인 — 판정·검토·2차 점검 단계, 두 달간 30,959건 판정
+
+  - title: DART 영업 대상 법인 스크리닝
+    url: projects/dart-screening
+    desc: 공시 주석의 비정형 값을 규칙+LLM으로 추출 — 3,950곳에서 10분, 4,000억 원 FX 거래로 연결
+
+  - title: MMF 수익률 취합 자동화
+    url: projects/mmf-automation
+    desc: LLM 역할을 컬럼 매핑·이상치 검증으로 한정 — 처리 1시간→2분, 갱신 주 2회→매일
+
+  - title: 리서치 맵
+    url: projects/research-map
+    desc: 생성 세션과 평가 세션을 분리한 리서치 리포트 대시보드 — 1,100여 건·276개 종목 추적
+
+  - title: 한국어 글쓰기 스킬과 평가 하네스
+    url: projects/korean-writing-eval
+    desc: 블라인드 쌍 비교와 승격 정책으로 스킬 개선을 검증 — 7회 실행 중 2회만 승격
+
   - title: 썸타임 (Sometime)
     url: projects/sometime
     desc: 지역 대학생 소개팅 앱 — 기획~운영 전 사이클 경험 (매출 1억, 사용자 7,000명, 딥테크 선정)
@@ -17,6 +37,15 @@ project_entries:
     url: projects/ai-automation
     desc: 팀 소통 병목 해결 — RAG 기반 지식검색 봇, Jira 자동화, 비동기 스크럼
 
+  - title: 발행어음 법인 금리 비교
+    url: https://noterate.vercel.app
+    desc: 9개 증권사의 법인 고시금리를 매일 수집해 기간별로 비교
+
+  - title: 채권-주식 혼합 시뮬레이터
+    url: https://bond-simulator-lac.vercel.app
+    desc: 30년 지수·국채 데이터로 자산 비중별 수익률과 낙폭을 비교하는 백테스트
+
+old_project_entries:
   - title: GoalForge
     url: projects/goalforge
     desc: Unity 2D 축구 게임 — 게임성 우선 기획, CI/CD 자동배포, 베타테스터 피드백 루프
@@ -33,7 +62,6 @@ project_entries:
     url: projects/tabatsu
     desc: 큐싱 방지 자전거 대여 앱 — 개발 경험 0에서 완성까지, 교내 대회 수상
 
-old_project_entries:
   - title: Swivel
     url: projects/swivel
     desc: AI 기반 디지털 명함 관리 서비스 - OCR, 카드 플립 애니메이션, 실시간 동기화
